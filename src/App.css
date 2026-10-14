@@ -247,4 +247,19 @@ body {
     padding: 20px;
   }
 
+  
+
+}
+
+/* ================= NAVIGATION ACTIVE ================= */
+
+.nav-button.active {
+  background: #176b78;
+  color: white;
+  border-color: #176b78;
+}
+
+.nav-button.active:hover {
+  background: #14515b;
+  color: white;
 }
